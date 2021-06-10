@@ -1,1 +1,0 @@
-Olá! Esse projeto ensiana você a utilizar o Git.
